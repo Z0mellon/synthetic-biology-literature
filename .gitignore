@@ -1,0 +1,5 @@
+# Keep licensed papers and local annotation data out of the public repository.
+*.pdf
+*.PDF
+.DS_Store
+Thumbs.db
